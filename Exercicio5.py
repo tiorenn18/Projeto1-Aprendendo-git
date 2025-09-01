@@ -7,3 +7,4 @@ media = ( nota1 + nota2 ) / 2    # Retorna a media do Aluno
 
 print() # Espacamento entre linhas
 print(f'O aluno {NomeDoAluno} tem a média de: {media:.2f}') # Mostra o Nome e a media do aluno.
+

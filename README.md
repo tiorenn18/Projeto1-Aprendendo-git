@@ -1,1 +1,1 @@
-Aprendendo a utilizar o git, arquivos apenas de teste 
+Aprendendo a utilizar o git,  arquivos apenas de teste 

@@ -1,4 +1,5 @@
 ''' 4) Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório entre eles.'''
+
 print('-------- Soma de valores --------')
 print() # espacamento no codigo
 
